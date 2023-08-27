@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     inkscape:zoom="0.59874673"
+     inkscape:cx="642.17469"
+     inkscape:cy="941.13248"
+     inkscape:window-width="3840"
+     inkscape:window-height="2097"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="210"
+       height="297"
+       id="page17"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="220"
+       y="0"
+       width="210"
+       height="297"
+       id="page18" />
+    <inkscape:page
+       x="440"
+       y="0"
+       width="210"
+       height="297"
+       id="page19" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="58.037895"
+       y="49.687119"
+       width="637.16423"
+       height="309.39626"
+       id="rect27" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.487675;stroke-opacity:1"
+         id="rect26"
+         width="359.47162"
+         height="179.73582"
+         x="-287.94901"
+         y="130.13208" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.353561;stroke-dasharray:none;stroke-opacity:1"
+       id="path4"
+       cx="105.17638"
+       cy="187.87086"
+       r="62.323219" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1"
+       d="M 42.853181,187.87086 H 167.49961"
+       id="path11" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1"
+       d="M 105.17639,250.19408 V 125.54763"
+       id="path12" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1"
+       id="path26"
+       sodipodi:type="arc"
+       sodipodi:cx="190.08897"
+       sodipodi:cy="-414.9118"
+       sodipodi:rx="180"
+       sodipodi:ry="180"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:arc-type="chord"
+       d="m 370.08897,-414.9118 a 180,180 0 0 1 -90,155.88457 180,180 0 0 1 -180,0 180,180 0 0 1 -89.999996,-155.88457 z"
+       sodipodi:open="true"
+       transform="rotate(90)" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1"
+       d="M 415.08821,190.08897 H 234.91181"
+       id="path27" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1"
+       id="path26-7"
+       sodipodi:type="arc"
+       sodipodi:cx="99.306511"
+       sodipodi:cy="-634.99994"
+       sodipodi:rx="180"
+       sodipodi:ry="180"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:arc-type="chord"
+       d="m 279.30651,-634.99994 a 180,180 0 0 1 -90,155.88458 180,180 0 0 1 -180.0000039,-10e-6 180,180 0 0 1 -89.9999951,-155.88457 z"
+       sodipodi:open="true"
+       transform="rotate(90)" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.352777;stroke-dasharray:none;stroke-opacity:1"
+       d="M 635.17636,99.306495 H 454.99996"
+       id="path27-2" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,29.888393,45.51521)"
+       id="text27"
+       style="white-space:pre;shape-inside:url(#rect27);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.33333;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="58.037109"
+         y="60.635464"
+         id="tspan5"><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none"
+           id="tspan1">Template for cone disk antenna after US patent </tspan><tspan
+           style="font-style:italic"
+           id="tspan2">5,608,416</tspan><tspan
+           style="font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none"
+           id="tspan3"> for frequencies </tspan><tspan
+           style="font-style:italic"
+           id="tspan4">&gt; 400 MHz.</tspan></tspan></text>
+  </g>
+</svg>
